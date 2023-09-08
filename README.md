@@ -8,9 +8,7 @@ This repository is your gateway to mastering the art of Dynamic Programming (DP)
 
 ## What's Inside
 
-📂 **Problem Sets**: Dive into well-organized folders containing a diverse range of DP problems, carefully selected to challenge and educate.
-
-💻 **Code Solutions**: Find clear and concise code solutions for each problem, accompanied by detailed explanations and comments to help you understand the thought process behind the code.
+📂 **Problem Sets**: Dive into well-organized folders containing a diverse range of DP problems
 
 ## Get Started
 
